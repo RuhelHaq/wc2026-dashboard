@@ -290,8 +290,9 @@ with nav_col:
 with info_col:
     st.markdown(
         '<div style="text-align:right;font-size:0.7rem;color:rgba(255,255,255,0.4);line-height:1.5;padding-top:4px;">'
-        '<span style="color:#C9A84C;font-weight:700;">Built by Ruhel</span><br>'
-        'RPS: 0.1670 · 10K sims</div>',
+        '<span style="color:#C9A84C;font-weight:700;">Built by Ruhel Haq</span><br>'
+        'Poisson GLM + XGBoost · 10K Monte Carlo sims<br>'
+        'Elo ratings · squad values · heat stress</div>',
         unsafe_allow_html=True,
     )
 st.markdown('</div>', unsafe_allow_html=True)
@@ -312,6 +313,37 @@ page = page_map.get(page, page)
 if page == "Tournament Overview":
     st.title("FIFA World Cup 2026 — Tournament Predictions")
     st.caption("Probabilities based on 10,000 Monte Carlo simulations · Elo ratings · squad values · historical match data")
+
+    with st.expander("ℹ️ About this model"):
+        col_a, col_b, col_c = st.columns(3)
+        with col_a:
+            st.markdown("""
+            **🤖 Machine Learning Model**
+            
+            Ensemble of Poisson GLM and XGBoost models trained on historical international match data. 
+            Goals scored by each team are modelled independently using a Poisson distribution.
+            
+            Model performance: **RPS = 0.1670**
+            """)
+        with col_b:
+            st.markdown("""
+            **⚙️ Key Features**
+            
+            - Elo rating difference between teams
+            - Squad market value differential (Transfermarkt)
+            - Recent form (home & away separately)
+            - Home advantage factor
+            - Venue heat stress index
+            """)
+        with col_c:
+            st.markdown("""
+            **🎲 Simulation**
+            
+            10,000 Monte Carlo simulations of the full tournament — group stage through the final. 
+            Each simulation samples scorelines from the Poisson model and tracks every team's path.
+            
+            Data cutoff: **June 10, 2026**
+            """)
 
     fav = results.nlargest(1, "Winner").iloc[0]
     co  = results.nlargest(2, "Winner").iloc[1]
