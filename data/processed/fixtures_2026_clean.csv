@@ -1,0 +1,105 @@
+match_num,date,round,group,home_team,away_team,venue,home_score,away_score,stage,heat_index_scaled,home_heat_tolerance,away_heat_tolerance,neutral,home_advantage,away_advantage
+1,2026-06-11,Matchday 1,Group A,Mexico,South Africa,Mexico City,,,Group,1.6,7.0,7.0,False,1,0
+2,2026-06-11,Matchday 1,Group A,South Korea,Czech Republic,Guadalajara (Zapopan),,,Group,2.6,5.0,2.0,True,0,0
+3,2026-06-18,Matchday 8,Group A,Czech Republic,South Africa,Atlanta,,,Group,6.5,2.0,7.0,True,0,0
+4,2026-06-18,Matchday 8,Group A,Mexico,South Korea,Guadalajara (Zapopan),,,Group,2.6,7.0,5.0,False,1,0
+5,2026-06-24,Matchday 14,Group A,Czech Republic,Mexico,Mexico City,,,Group,1.6,2.0,7.0,False,0,1
+6,2026-06-24,Matchday 14,Group A,South Africa,South Korea,Monterrey (Guadalupe),,,Group,6.8,7.0,5.0,True,0,0
+7,2026-06-12,Matchday 2,Group B,Canada,Bosnia & Herzegovina,Toronto,,,Group,2.0,3.0,2.0,False,1,0
+8,2026-06-13,Matchday 3,Group B,Qatar,Switzerland,San Francisco Bay Area (Santa Clara),,,Group,1.0,9.0,3.0,True,0,0
+9,2026-06-18,Matchday 8,Group B,Switzerland,Bosnia & Herzegovina,Los Angeles (Inglewood),,,Group,2.3,3.0,2.0,True,0,0
+10,2026-06-18,Matchday 8,Group B,Canada,Qatar,Vancouver,,,Group,1.4,3.0,9.0,False,1,0
+11,2026-06-24,Matchday 14,Group B,Switzerland,Canada,Vancouver,,,Group,1.4,3.0,3.0,False,0,1
+12,2026-06-24,Matchday 14,Group B,Bosnia & Herzegovina,Qatar,Seattle,,,Group,1.4,2.0,9.0,True,0,0
+13,2026-06-13,Matchday 3,Group C,Brazil,Morocco,New York/New Jersey (East Rutherford),,,Group,3.5,8.0,8.0,True,0,0
+14,2026-06-13,Matchday 3,Group C,Haiti,Scotland,Boston (Foxborough),,,Group,3.0,9.0,2.0,True,0,0
+15,2026-06-19,Matchday 9,Group C,Scotland,Morocco,Boston (Foxborough),,,Group,3.0,2.0,8.0,True,0,0
+16,2026-06-19,Matchday 9,Group C,Brazil,Haiti,Philadelphia,,,Group,4.4,8.0,9.0,True,0,0
+17,2026-06-24,Matchday 14,Group C,Scotland,Brazil,Miami (Miami Gardens),,,Group,7.8,2.0,8.0,True,0,0
+18,2026-06-24,Matchday 14,Group C,Morocco,Haiti,Atlanta,,,Group,6.5,8.0,9.0,True,0,0
+19,2026-06-12,Matchday 2,Group D,United States,Paraguay,Los Angeles (Inglewood),,,Group,2.3,6.0,7.0,True,0,0
+20,2026-06-13,Matchday 3,Group D,Australia,Turkey,Vancouver,,,Group,1.4,6.0,6.0,True,0,0
+21,2026-06-19,Matchday 9,Group D,United States,Australia,Seattle,,,Group,1.4,6.0,6.0,True,0,0
+22,2026-06-19,Matchday 9,Group D,Turkey,Paraguay,San Francisco Bay Area (Santa Clara),,,Group,1.0,6.0,7.0,True,0,0
+23,2026-06-25,Matchday 15,Group D,Turkey,United States,Los Angeles (Inglewood),,,Group,2.3,6.0,6.0,True,0,0
+24,2026-06-25,Matchday 15,Group D,Paraguay,Australia,San Francisco Bay Area (Santa Clara),,,Group,1.0,7.0,6.0,True,0,0
+25,2026-06-14,Matchday 4,Group E,Germany,Curaçao,Houston,,,Group,10.0,3.0,8.0,True,0,0
+26,2026-06-14,Matchday 4,Group E,Ivory Coast,Ecuador,Philadelphia,,,Group,4.4,9.0,6.0,True,0,0
+27,2026-06-20,Matchday 10,Group E,Germany,Ivory Coast,Toronto,,,Group,2.0,3.0,9.0,True,0,0
+28,2026-06-20,Matchday 10,Group E,Ecuador,Curaçao,Kansas City,,,Group,6.0,6.0,8.0,True,0,0
+29,2026-06-25,Matchday 15,Group E,Curaçao,Ivory Coast,Philadelphia,,,Group,4.4,8.0,9.0,True,0,0
+30,2026-06-25,Matchday 15,Group E,Ecuador,Germany,New York/New Jersey (East Rutherford),,,Group,3.5,6.0,3.0,True,0,0
+31,2026-06-14,Matchday 4,Group F,Netherlands,Japan,Dallas (Arlington),,,Group,7.4,3.0,6.0,True,0,0
+32,2026-06-14,Matchday 4,Group F,Sweden,Tunisia,Monterrey (Guadalupe),,,Group,6.8,3.0,8.0,True,0,0
+33,2026-06-20,Matchday 10,Group F,Netherlands,Sweden,Houston,,,Group,10.0,3.0,3.0,True,0,0
+34,2026-06-20,Matchday 10,Group F,Tunisia,Japan,Monterrey (Guadalupe),,,Group,6.8,8.0,6.0,True,0,0
+35,2026-06-25,Matchday 15,Group F,Japan,Sweden,Dallas (Arlington),,,Group,7.4,6.0,3.0,True,0,0
+36,2026-06-25,Matchday 15,Group F,Tunisia,Netherlands,Kansas City,,,Group,6.0,8.0,3.0,True,0,0
+37,2026-06-15,Matchday 5,Group G,Belgium,Egypt,Seattle,,,Group,1.4,3.0,9.0,True,0,0
+38,2026-06-15,Matchday 5,Group G,Iran,New Zealand,Los Angeles (Inglewood),,,Group,2.3,8.0,3.0,True,0,0
+39,2026-06-21,Matchday 11,Group G,Belgium,Iran,Los Angeles (Inglewood),,,Group,2.3,3.0,8.0,True,0,0
+40,2026-06-21,Matchday 11,Group G,New Zealand,Egypt,Vancouver,,,Group,1.4,3.0,9.0,True,0,0
+41,2026-06-26,Matchday 16,Group G,Egypt,Iran,Seattle,,,Group,1.4,9.0,8.0,True,0,0
+42,2026-06-26,Matchday 16,Group G,New Zealand,Belgium,Vancouver,,,Group,1.4,3.0,3.0,True,0,0
+43,2026-06-15,Matchday 5,Group H,Spain,Cape Verde,Atlanta,,,Group,6.5,6.0,8.0,True,0,0
+44,2026-06-15,Matchday 5,Group H,Saudi Arabia,Uruguay,Miami (Miami Gardens),,,Group,7.8,9.0,5.0,True,0,0
+45,2026-06-21,Matchday 11,Group H,Spain,Saudi Arabia,Atlanta,,,Group,6.5,6.0,9.0,True,0,0
+46,2026-06-21,Matchday 11,Group H,Uruguay,Cape Verde,Miami (Miami Gardens),,,Group,7.8,5.0,8.0,True,0,0
+47,2026-06-26,Matchday 16,Group H,Cape Verde,Saudi Arabia,Houston,,,Group,10.0,8.0,9.0,True,0,0
+48,2026-06-26,Matchday 16,Group H,Uruguay,Spain,Guadalajara (Zapopan),,,Group,2.6,5.0,6.0,True,0,0
+49,2026-06-16,Matchday 6,Group I,France,Senegal,New York/New Jersey (East Rutherford),,,Group,3.5,4.0,9.0,True,0,0
+50,2026-06-16,Matchday 6,Group I,Iraq,Norway,Boston (Foxborough),,,Group,3.0,9.0,3.0,True,0,0
+51,2026-06-22,Matchday 12,Group I,France,Iraq,Philadelphia,,,Group,4.4,4.0,9.0,True,0,0
+52,2026-06-22,Matchday 12,Group I,Norway,Senegal,New York/New Jersey (East Rutherford),,,Group,3.5,3.0,9.0,True,0,0
+53,2026-06-26,Matchday 16,Group I,Norway,France,Boston (Foxborough),,,Group,3.0,3.0,4.0,True,0,0
+54,2026-06-26,Matchday 16,Group I,Senegal,Iraq,Toronto,,,Group,2.0,9.0,9.0,True,0,0
+55,2026-06-16,Matchday 6,Group J,Argentina,Algeria,Kansas City,,,Group,6.0,5.0,8.0,True,0,0
+56,2026-06-16,Matchday 6,Group J,Austria,Jordan,San Francisco Bay Area (Santa Clara),,,Group,1.0,3.0,8.0,True,0,0
+57,2026-06-22,Matchday 12,Group J,Argentina,Austria,Dallas (Arlington),,,Group,7.4,5.0,3.0,True,0,0
+58,2026-06-22,Matchday 12,Group J,Jordan,Algeria,San Francisco Bay Area (Santa Clara),,,Group,1.0,8.0,8.0,True,0,0
+59,2026-06-27,Matchday 17,Group J,Algeria,Austria,Kansas City,,,Group,6.0,8.0,3.0,True,0,0
+60,2026-06-27,Matchday 17,Group J,Jordan,Argentina,Dallas (Arlington),,,Group,7.4,8.0,5.0,True,0,0
+61,2026-06-17,Matchday 7,Group K,Portugal,DR Congo,Houston,,,Group,10.0,6.0,9.0,True,0,0
+62,2026-06-17,Matchday 7,Group K,Uzbekistan,Colombia,Mexico City,,,Group,1.6,6.0,7.0,True,0,0
+63,2026-06-23,Matchday 13,Group K,Portugal,Uzbekistan,Houston,,,Group,10.0,6.0,6.0,True,0,0
+64,2026-06-23,Matchday 13,Group K,Colombia,DR Congo,Guadalajara (Zapopan),,,Group,2.6,7.0,9.0,True,0,0
+65,2026-06-27,Matchday 17,Group K,Colombia,Portugal,Miami (Miami Gardens),,,Group,7.8,7.0,6.0,True,0,0
+66,2026-06-27,Matchday 17,Group K,DR Congo,Uzbekistan,Atlanta,,,Group,6.5,9.0,6.0,True,0,0
+67,2026-06-17,Matchday 7,Group L,England,Croatia,Dallas (Arlington),,,Group,7.4,2.0,4.0,True,0,0
+68,2026-06-17,Matchday 7,Group L,Ghana,Panama,Toronto,,,Group,2.0,9.0,9.0,True,0,0
+69,2026-06-23,Matchday 13,Group L,England,Ghana,Boston (Foxborough),,,Group,3.0,2.0,9.0,True,0,0
+70,2026-06-23,Matchday 13,Group L,Panama,Croatia,Toronto,,,Group,2.0,9.0,4.0,True,0,0
+71,2026-06-27,Matchday 17,Group L,Panama,England,New York/New Jersey (East Rutherford),,,Group,3.5,9.0,2.0,True,0,0
+72,2026-06-27,Matchday 17,Group L,Croatia,Ghana,Philadelphia,,,Group,4.4,4.0,9.0,True,0,0
+73,2026-06-28,Round of 32,,2A,2B,Los Angeles (Inglewood),,,Round of 32,2.3,,,True,0,0
+74,2026-06-29,Round of 32,,1E,3A/B/C/D/F,Boston (Foxborough),,,Round of 32,3.0,,,True,0,0
+75,2026-06-29,Round of 32,,1F,2C,Monterrey (Guadalupe),,,Round of 32,6.8,,,True,0,0
+76,2026-06-29,Round of 32,,1C,2F,Houston,,,Round of 32,10.0,,,True,0,0
+77,2026-06-30,Round of 32,,1I,3C/D/F/G/H,New York/New Jersey (East Rutherford),,,Round of 32,3.5,,,True,0,0
+78,2026-06-30,Round of 32,,2E,2I,Dallas (Arlington),,,Round of 32,7.4,,,True,0,0
+79,2026-06-30,Round of 32,,1A,3C/E/F/H/I,Mexico City,,,Round of 32,1.6,,,True,0,0
+80,2026-07-01,Round of 32,,1L,3E/H/I/J/K,Atlanta,,,Round of 32,6.5,,,True,0,0
+81,2026-07-01,Round of 32,,1D,3B/E/F/I/J,San Francisco Bay Area (Santa Clara),,,Round of 32,1.0,,,True,0,0
+82,2026-07-01,Round of 32,,1G,3A/E/H/I/J,Seattle,,,Round of 32,1.4,,,True,0,0
+83,2026-07-02,Round of 32,,2K,2L,Toronto,,,Round of 32,2.0,,,True,0,0
+84,2026-07-02,Round of 32,,1H,2J,Los Angeles (Inglewood),,,Round of 32,2.3,,,True,0,0
+85,2026-07-02,Round of 32,,1B,3E/F/G/I/J,Vancouver,,,Round of 32,1.4,,,True,0,0
+86,2026-07-03,Round of 32,,1J,2H,Miami (Miami Gardens),,,Round of 32,7.8,,,True,0,0
+87,2026-07-03,Round of 32,,1K,3D/E/I/J/L,Kansas City,,,Round of 32,6.0,,,True,0,0
+88,2026-07-03,Round of 32,,2D,2G,Dallas (Arlington),,,Round of 32,7.4,,,True,0,0
+89,2026-07-04,Round of 16,,W74,W77,Philadelphia,,,Round of 16,4.4,,,True,0,0
+90,2026-07-04,Round of 16,,W73,W75,Houston,,,Round of 16,10.0,,,True,0,0
+91,2026-07-05,Round of 16,,W76,W78,New York/New Jersey (East Rutherford),,,Round of 16,3.5,,,True,0,0
+92,2026-07-05,Round of 16,,W79,W80,Mexico City,,,Round of 16,1.6,,,True,0,0
+93,2026-07-06,Round of 16,,W83,W84,Dallas (Arlington),,,Round of 16,7.4,,,True,0,0
+94,2026-07-06,Round of 16,,W81,W82,Seattle,,,Round of 16,1.4,,,True,0,0
+95,2026-07-07,Round of 16,,W86,W88,Atlanta,,,Round of 16,6.5,,,True,0,0
+96,2026-07-07,Round of 16,,W85,W87,Vancouver,,,Round of 16,1.4,,,True,0,0
+97,2026-07-09,Quarter-final,,W89,W90,Boston (Foxborough),,,Quarter-final,3.0,,,True,0,0
+98,2026-07-10,Quarter-final,,W93,W94,Los Angeles (Inglewood),,,Quarter-final,2.3,,,True,0,0
+99,2026-07-11,Quarter-final,,W91,W92,Miami (Miami Gardens),,,Quarter-final,7.8,,,True,0,0
+100,2026-07-11,Quarter-final,,W95,W96,Kansas City,,,Quarter-final,6.0,,,True,0,0
+101,2026-07-14,Semi-final,,W97,W98,Dallas (Arlington),,,Semi-final,7.4,,,True,0,0
+102,2026-07-15,Semi-final,,W99,W100,Atlanta,,,Semi-final,6.5,,,True,0,0
+103,2026-07-18,Match for third place,,L101,L102,Miami (Miami Gardens),,,Third-place,7.8,,,True,0,0
+104,2026-07-19,Final,,W101,W102,New York/New Jersey (East Rutherford),,,Final,3.5,,,True,0,0

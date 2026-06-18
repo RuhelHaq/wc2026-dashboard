@@ -1,0 +1,17 @@
+venue,temp_c,humidity,heat_index
+Houston,33,75,45.7
+Miami (Miami Gardens),31,78,40.2
+Dallas (Arlington),32,67,39.3
+Monterrey (Guadalupe),33,55,37.8
+Atlanta,31,68,37.0
+Kansas City,31,64,35.9
+Philadelphia,29,65,31.8
+New York/New Jersey (East Rutherford),28,62,29.7
+Boston (Foxborough),27,63,28.3
+Guadalajara (Zapopan),27,50,27.4
+Los Angeles (Inglewood),26,55,26.7
+Toronto,25,63,26.0
+Mexico City,22,45,25.0
+Seattle,21,58,24.5
+Vancouver,20,60,24.5
+San Francisco Bay Area (Santa Clara),18,72,23.4
